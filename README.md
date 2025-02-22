@@ -1,5 +1,5 @@
 # ftplib++ Windows Modifications
-This repository contains modifications to `ftplib++` to make it work on Windows.
+This is a modified version of [ftplib++](https://github.com/mkulke/ftplibpp) for Windows compatibility.
 
 ## Modifications
 - Adjusted socket handling for Windows.
